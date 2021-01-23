@@ -5,5 +5,5 @@ Helm chart repository.
 The repository can be added as follows:
 
 ```
-$ helm repo add fiaas https://ptdorf.github.io/helm
+$ helm repo add ptdorf https://ptdorf.github.io/helm
 ```
